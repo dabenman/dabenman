@@ -50,11 +50,11 @@
 
 [<img align="left" height="55px" width="120px" alt="Warpnet" src="https://vst.co.jp/wp-content/themes/vst_WPTheme/cmn/img/logo.png"/>](https://vst.co.jp/zh-hans/)
 **R&d Director** \
-[**VS Techonlogy**](https://vst.co.jp/zh-hans/) • Nov 2025 - Now \
+[**VS Techonlogy**](https://vst.co.jp/zh-hans/) • In progress \
 
 [<img align="left" height="55px" width="120px" alt="Warpnet" src="https://www.kapito.ai/wp-content/uploads/2024/01/Logo_Kapito.svg"/>](https://www.kapito.ai/)
 **SR. Vision System Engineer** \
-[**Kapito**](https://www.kapito.ai/)  • In progress \
+[**Kapito**](https://www.kapito.ai/)  • Apr 2019 - July 2024 \
 Skills: `C#` `python` `c++` `raspberry` `algorithm develop` `opencv` `computer vision` `vision system design` `plc` `arduino` `ros` `wpf` 
 
 [<img align="left" height="55px" width="120px" alt="Warpnet" src="https://vst.co.jp/wp-content/themes/vst_WPTheme/cmn/img/logo.png"/>](https://vst.co.jp/zh-hans/)
