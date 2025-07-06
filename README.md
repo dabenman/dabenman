@@ -43,74 +43,60 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=blender"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ros"/>]()
 
+## 💼 Work Experience
 
-<br>
+### 🔹 R&D Director  
+**[VS Technology](https://vst.co.jp/zh-hans/)** • In progress  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
+![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat&logo=.net&logoColor=white)
 
-## Work experience:
+---
 
-<table>
-<tr>
-<td width="130px" align="center">
-  <img src="/assets/vst_logo.svg" alt="VS Technology" height="55px"/>
-</td>
-<td>
-  <strong>R&amp;D Director</strong><br/>
-  <a href="https://vst.co.jp/zh-hans/"><strong>VS Techonlogy</strong></a> • In progress<br/>
-</td>
-</tr>
-</table>
+### 🔹 SR. Vision System Engineer  
+**[Kapito](https://www.kapito.ai/)** • Apr 2019 – July 2024  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
+![Vision System](https://img.shields.io/badge/Vision%20System-gray?style=flat)
+![PLC](https://img.shields.io/badge/PLC-gray?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-gray?style=flat)
+![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat&logo=.net&logoColor=white)
 
-<table>
-<tr>
-<td width="130px" align="center">
-  <img src="/assets/kapito_logo.svg" alt="Kapito" height="55px"/>
-</td>
-<td>
-  <strong>SR. Vision System Engineer</strong><br/>
-  <a href="https://www.kapito.ai/"><strong>Kapito</strong></a> • Apr 2019 - July 2024<br/>
-  Skills: <code>C#</code> <code>python</code> <code>c++</code> <code>raspberry</code> <code>algorithm develop</code> <code>opencv</code> <code>computer vision</code> <code>vision system design</code> <code>plc</code> <code>arduino</code> <code>ros</code> <code>wpf</code>
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td width="130px" align="center">
-  <img src="/assets/vst_logo.svg" alt="VS Technology" height="55px"/>
-</td>
-<td>
-  <strong>Computer Vision Algorithm Engineer</strong><br/>
-  <a href="https://vst.co.jp/zh-hans/"><strong>VS Techonlogy</strong></a> • Nov 2018 - Apr 2019<br/>
-  Skills: <code>C#</code> <code>vision system design</code> <code>wpf</code> <code>opencv</code>
-</td>
-</tr>
-</table>
+### 🔹 Computer Vision Algorithm Engineer  
+**[VS Technology](https://vst.co.jp/zh-hans/)** • Nov 2018 – Apr 2019  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
+![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
 
-<table>
-<tr>
-<td width="130px" align="center">
-  <img src="/assets/onsemi_logo.png" alt="onsemi" height="55px"/>
-</td>
-<td>
-  <strong>Computer Vision Algorithm Engineer</strong><br/>
-  <a href="https://www.onsemi.com/"><strong>onsemi</strong></a> • Feb 2018 - Nov 2018<br/>
-  Skills: <code>C#</code> <code>vision system design</code> <code>algorithm develop</code> <code>opencv</code> <code>winform</code> <code>wpf</code>
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td width="130px" align="center">
-  <img src="/assets/hauman_logo.png" alt="Hauman" height="55px"/>
-</td>
-<td>
-  <strong>Computer Vision Algorithm Engineer</strong><br/>
-  <a href="https://www.hauman.com.tw/index.aspx"><strong>Hauman</strong></a> • Dec 2014 - Feb 2018<br/>
-  Skills: <code>C#</code> <code>opencv</code> <code>winform</code> <code>algorithm develop</code> <code>algorithm optimization</code> <code>vision system design</code>
-</td>
-</tr>
-</table>
+### 🔹 Computer Vision Algorithm Engineer  
+**[onsemi](https://www.onsemi.com/)** • Feb 2018 – Nov 2018  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
+![WinForms](https://img.shields.io/badge/WinForms-00599C?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
+![Algorithm Dev](https://img.shields.io/badge/Algorithm%20Dev-gray?style=flat)
+![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat)
+
+---
+
+### 🔹 Computer Vision Algorithm Engineer  
+**[Hauman](https://www.hauman.com.tw/index.aspx)** • Dec 2014 – Feb 2018  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-00599C?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
+![Algorithm Dev](https://img.shields.io/badge/Algorithm%20Dev-gray?style=flat)
+![Algorithm Opt](https://img.shields.io/badge/Algorithm%20Optimization-gray?style=flat)
+![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
+
 
 
 ## Contact me:
