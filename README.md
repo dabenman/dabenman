@@ -48,35 +48,70 @@
 
 ## Work experience:
 
-[<img align="left" height="55px" width="120px" alt="Warpnet" src="\assets\vst_logo.svg"/>](https://vst.co.jp/zh-hans/)
-**R&d Director** \
-[**VS Techonlogy**](https://vst.co.jp/zh-hans/) • In progress \
-<br clear="left"/>
+<table>
+<tr>
+<td width="130px" align="center">
+  <img src="/assets/vst_logo.svg" alt="VS Technology" height="55px"/>
+</td>
+<td>
+  <strong>R&amp;d Director</strong><br/>
+  <a href="https://vst.co.jp/zh-hans/"><strong>VS Techonlogy</strong></a> • In progress<br/>
+</td>
+</tr>
+</table>
 
-[<img align="left" height="55px" width="120px" alt="Warpnet" src="\assets\kapito_logo.svg"/>](https://www.kapito.ai/)
-**SR. Vision System Engineer** \
-[**Kapito**](https://www.kapito.ai/)  • Apr 2019 - July 2024 \
-Skills: `C#` `python` `c++` `raspberry` `algorithm develop` `opencv` `computer vision` `vision system design` `plc` `arduino` `ros` `wpf` 
-<br clear="left"/>
+<table>
+<tr>
+<td width="130px" align="center">
+  <img src="/assets/kapito_logo.svg" alt="Kapito" height="55px"/>
+</td>
+<td>
+  <strong>SR. Vision System Engineer</strong><br/>
+  <a href="https://www.kapito.ai/"><strong>Kapito</strong></a> • Apr 2019 - July 2024<br/>
+  Skills: <code>C#</code> <code>python</code> <code>c++</code> <code>raspberry</code> <code>algorithm develop</code> <code>opencv</code> <code>computer vision</code> <code>vision system design</code> <code>plc</code> <code>arduino</code> <code>ros</code> <code>wpf</code>
+</td>
+</tr>
+</table>
 
-[<img align="left" height="55px" width="120px" alt="Warpnet" src="\assets\vst_logo.svg"/>](https://vst.co.jp/zh-hans/)
-**Computer Vision Algorithm Engineer** \
-[**VS Techonlogy**](https://vst.co.jp/zh-hans/) • Nov 2018 - Apr 2019 \
-Skills: `C#` `vision system design` `wpf` `opencv`
-<br clear="left"/>
+<table>
+<tr>
+<td width="130px" align="center">
+  <img src="/assets/vst_logo.svg" alt="VS Technology" height="55px"/>
+</td>
+<td>
+  <strong>Computer Vision Algorithm Engineer</strong><br/>
+  <a href="https://vst.co.jp/zh-hans/"><strong>VS Techonlogy</strong></a> • Nov 2018 - Apr 2019<br/>
+  Skills: <code>C#</code> <code>vision system design</code> <code>wpf</code> <code>opencv</code>
+</td>
+</tr>
+</table>
 
-[<img align="left" height="55px" width="120px" alt="Warpnet" src="\assets\onsemi_logo.png"/>](https://www.onsemi.com/)
-**Computer Vision Algorithm Engineer** \
-[**onsemi**](https://www.onsemi.com/) • Feb 2018 - Nov 2018 \
-Skills: `C#` `vision system design` `algorithm develop` `opencv` `winform` `vision system design` `wpf` 
-<br clear="left"/>
+<table>
+<tr>
+<td width="130px" align="center">
+  <img src="/assets/onsemi_logo.png" alt="onsemi" height="55px"/>
+</td>
+<td>
+  <strong>Computer Vision Algorithm Engineer</strong><br/>
+  <a href="https://www.onsemi.com/"><strong>onsemi</strong></a> • Feb 2018 - Nov 2018<br/>
+  Skills: <code>C#</code> <code>vision system design</code> <code>algorithm develop</code> <code>opencv</code> <code>winform</code> <code>wpf</code>
+</td>
+</tr>
+</table>
 
-[<img align="left" height="55px" width="120px" alt="Warpnet" src="\assets\hauman_logo.png"/>](https://www.hauman.com.tw/index.aspx)
-**Computer Vision Algorithm Engineer** \
-[**Hauman**](https://www.hauman.com.tw/index.aspx) • Dec 2014 - Feb 2018 \
-Skills: `C#` `opencv` `winform` `algorithm develop` `algorithm optimization` `vision system design`
-<br clear="left"/>
-<br>
+<table>
+<tr>
+<td width="130px" align="center">
+  <img src="/assets/hauman_logo.png" alt="Hauman" height="55px"/>
+</td>
+<td>
+  <strong>Computer Vision Algorithm Engineer</strong><br/>
+  <a href="https://www.hauman.com.tw/index.aspx"><strong>Hauman</strong></a> • Dec 2014 - Feb 2018<br/>
+  Skills: <code>C#</code> <code>opencv</code> <code>winform</code> <code>algorithm develop</code> <code>algorithm optimization</code> <code>vision system design</code>
+</td>
+</tr>
+</table>
+
 
 ## Contact me:
 <div>
