@@ -51,8 +51,6 @@
 ![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
 ![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat&logo=.net&logoColor=white)
 
----
-
 ### 🔹 SR. Vision System Engineer  
 **[Kapito](https://www.kapito.ai/)** • Apr 2019 – July 2024  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -66,16 +64,12 @@
 ![ROS](https://img.shields.io/badge/ROS-gray?style=flat)
 ![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat&logo=.net&logoColor=white)
 
----
-
 ### 🔹 Computer Vision Algorithm Engineer  
 **[VS Technology](https://vst.co.jp/zh-hans/)** • Nov 2018 – Apr 2019  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
-![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat)
+![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat&logo=.net&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
-
----
 
 ### 🔹 Computer Vision Algorithm Engineer  
 **[onsemi](https://www.onsemi.com/)** • Feb 2018 – Nov 2018  
@@ -84,9 +78,7 @@
 ![WinForms](https://img.shields.io/badge/WinForms-00599C?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
 ![Algorithm Dev](https://img.shields.io/badge/Algorithm%20Dev-gray?style=flat)
-![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat)
-
----
+![WPF](https://img.shields.io/badge/WPF-5A29E4?style=flat&logo=.net&logoColor=white)
 
 ### 🔹 Computer Vision Algorithm Engineer  
 **[Hauman](https://www.hauman.com.tw/index.aspx)** • Dec 2014 – Feb 2018  
@@ -96,8 +88,6 @@
 ![Algorithm Dev](https://img.shields.io/badge/Algorithm%20Dev-gray?style=flat)
 ![Algorithm Opt](https://img.shields.io/badge/Algorithm%20Optimization-gray?style=flat)
 ![Vision System Design](https://img.shields.io/badge/Vision%20System%20Design-gray?style=flat)
-
-
 
 ## Contact me:
 <div>
