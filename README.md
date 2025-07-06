@@ -54,7 +54,7 @@
   <img src="/assets/vst_logo.svg" alt="VS Technology" height="55px"/>
 </td>
 <td>
-  <strong>R&amp;d Director</strong><br/>
+  <strong>R&amp;D Director</strong><br/>
   <a href="https://vst.co.jp/zh-hans/"><strong>VS Techonlogy</strong></a> • In progress<br/>
 </td>
 </tr>
