@@ -67,7 +67,7 @@ Skills: `C#` `vision system design` `wpf` `opencv`
 [**onsemi**](https://www.onsemi.com/) • Feb 2018 - Nov 2018 \
 Skills: `C#` `vision system design` `algorithm develop` `opencv` `winform` `vision system design` `wpf` 
 
-[<img align="left" height="55px" width="120px" alt="Warpnet" src="https://www.hauman.com.tw/webc/images/all/logo.png"/>](https://www.hauman.com.tw/index.aspx)
+[<img align="left" height="55px" width="120px" alt="Warpnet" src="https://www.hauman.com.tw/images_v4/logo.png"/>](https://www.hauman.com.tw/index.aspx)
 **Computer Vision Algorithm Engineer** \
 [**Hauman**](https://www.hauman.com.tw/index.aspx) • Dec 2014 - Feb 2018 \
 Skills: `C#` `opencv` `winform` `algorithm develop` `algorithm optimization` `vision system design`
